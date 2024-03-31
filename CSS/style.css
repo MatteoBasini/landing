@@ -8,17 +8,17 @@
 
 
 @media (max-width: 960px) {
-  .container {
+  .countainer {
     width: 700px;
   }
 }
 @media (max-width: 720px) {
-  .container {
+  .countainer {
     width: 500px;
   }
 }
 @media (max-width: 540px) {
-  .container {
+  .countainer {
     width: 300px;
   }
 }
